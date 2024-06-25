@@ -1,0 +1,16 @@
+* {
+  background-color: black;
+}
+
+#container {
+  display: flex;
+  flex-direction: column;
+  background-color: grey;
+  height: 300px;
+  width: 300px;
+}
+
+#smallContainer1 {
+  display: flex;
+  background-color: grey;
+}
